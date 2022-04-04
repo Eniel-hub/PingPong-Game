@@ -1,6 +1,4 @@
-#Eniel Leba
 #November 21, 2021
-#Final Project
 # Implementation of classic arcade game Pong
 
 #import libraries
